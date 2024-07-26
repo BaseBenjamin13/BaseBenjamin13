@@ -1,7 +1,7 @@
 
 # Hello There 👋
 ## I'm Benjamin Morgiewicz, a Software Engineer.
-#### I am a full-stack software engineer, an honest hard working person who loves to program and will program until the task is complete.
+#### I am a full-stack software engineer, a hard working person who loves to program and will program until the task is complete.
 
 [My Youtube Channel](https://www.youtube.com/channel/UCOJiwVUueAlGqo788D3d-uQ)
 
